@@ -33,4 +33,4 @@ A lightweight, cloud-native control plane that provides real-time cost visibilit
 
 ## High-Level Architecture
 
-![CACP Architecture](docs/architecture.png)
+![CACP Architecture](assets/docs/architecture.png)
