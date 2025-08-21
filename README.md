@@ -29,4 +29,8 @@ A lightweight, cloud-native control plane that provides real-time cost visibilit
 - Multi-cloud adapters (**GCP/Azure**) → *planned*.  
 - Spot instances, Savings Plans nuances → *planned*.  
 - Managed services (RDS, S3, MSK) → *planned via external resource descriptors*.  
+---
 
+## High-Level Architecture
+
+![CACP Architecture](docs/architecture.png)
